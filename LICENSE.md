@@ -1,4 +1,4 @@
-
+Enhance Adobe Audition for macOS with Adobe Audition for macOS advanced Plugin: compressor & scene-transitions, the #1 plugin. Includes compressor and scene-transitions for a
 
 
 
